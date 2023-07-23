@@ -1,0 +1,60 @@
+body {
+  background-image: url("img/galaxyGbackground.jpg");
+  overflow: hidden;
+}
+.ufo-animation {
+  width: 99vw;
+  height: 99vh;
+  position: relative;
+  overflow: hidden;
+}
+.planet1 {
+  position: absolute;
+  width: 300px;
+  left: 50%;
+  top: 10%;
+}
+.planet2 {
+  position: absolute;
+  left: 15%;
+  top: 15%;
+  width: 150px;
+}
+.planet3 {
+  position: absolute;
+  left: 20%;
+  top: 40%;
+  width: 200px;
+}
+.planet4 {
+  position: absolute;
+  left: 40%;
+  top: 30%;
+  width: 300px;
+}
+.planet5 {
+  position: absolute;
+  z-index: 999;
+  left: 40%;
+  top: 20%;
+  width: 200px;
+}
+.planet6 {
+  position: absolute;
+
+  left: 10%;
+  top: 50%;
+  width: 150px;
+}
+.planet7 {
+  position: absolute;
+  left: 20%;
+  top: 66%;
+  width: 300px;
+}
+.ufo {
+  position: absolute;
+  left: 20%;
+  top: 30%;
+  width: 250px;
+}
